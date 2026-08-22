@@ -1,7 +1,9 @@
 ---
 publish: true
 created: 2026-08-21T03:01:10.969Z
-modified: 2026-08-21T03:24:53.145Z
+modified: 2026-08-22T04:59:25.014Z
+tags:
+  - engineering
 ---
 
 # Purpose

@@ -2,7 +2,9 @@
 publish: true
 title: My Homelab
 created: 2026-08-21T02:46:26.036Z
-modified: 2026-08-21T03:13:33.379Z
+modified: 2026-08-22T04:59:03.349Z
+tags:
+  - engineering
 ---
 
 # Intro
